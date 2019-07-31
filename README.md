@@ -1,5 +1,8 @@
 # nanoservicos-serverless
 
+    # para iniciar o projeto node
+        npm init
+
     # para criar um projeto
         serverless create --template aws-nodejs --path http-handler
 
