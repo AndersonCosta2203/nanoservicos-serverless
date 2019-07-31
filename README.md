@@ -3,6 +3,9 @@
     # para criar um projeto
         serverless create --template aws-nodejs --path http-handler
 
+    # para iniciar o projeto node
+        npm init
+
     # bibioteca para trabalhar com binários - aws
         npm install --save-dev serverless-apigw-binary
 
